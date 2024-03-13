@@ -48,27 +48,6 @@ ul {
   overflow: hidden;
 }
 
-.h1 {
-  font-size: 56px;
-  line-height: 1.07143;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-}
-
-.h2 {
-  font-size: 36px;
-  line-height: 1.11112;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-}
-
-.h3 {
-  font-size: 20px;
-  line-height: 1.2;
-  font-weight: 500;
-  letter-spacing: 0.02em;
-}
-
 .text {
   font-size: var(--font-size-base);
   line-height: var(--line-height-base);
@@ -170,14 +149,26 @@ ul {
 
 .hero-section__title {
   color: var(--white-color);
+  font-size: 56px;
+  line-height: 1.07143;
+  font-weight: 700;
+  letter-spacing: 0.02em;
 }
 
 .advantages-list__item-title {
   color: var(--dark-color);
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
 .about-title {
   color: var(--dark-color);
+  font-size: 36px;
+  line-height: 1.11112;
+  font-weight: 700;
+  letter-spacing: 0.02em;
 }
 
 .team-section {
@@ -186,12 +177,24 @@ ul {
 
 .team-title {
   color: var(--dark-color);
+  font-size: 36px;
+  line-height: 1.11112;
+  font-weight: 700;
+  letter-spacing: 0.02em;
 }
 
 .team-card__text {
   color: var(--dark-color);
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-card__title {
   color: var(--dark-color);
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
